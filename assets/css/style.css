@@ -644,7 +644,7 @@ button {
 
 .appointment__heading::after {
   content: "";
-  display: inline-block;
+  display: block;
   width: 136px;
   height: 2px;
   background: #2e80ce;
